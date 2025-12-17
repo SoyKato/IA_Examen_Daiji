@@ -1,0 +1,115 @@
+fecha,temp_max_f,temp_min_f,condicion_clima
+2025-09-01,75,59,Soleado
+2025-09-02,75,59,Soleado
+2025-09-03,73,61,Parcialmente Nublado
+2025-09-04,73,55,Soleado
+2025-09-05,73,57,Soleado
+2025-09-06,72,63,Soleado
+2025-09-07,73,57,Soleado
+2025-09-08,75,61,Soleado
+2025-09-09,75,61,Parcialmente Nublado
+2025-09-10,75,64,Parcialmente Nublado
+2025-09-11,75,63,Soleado
+2025-09-12,75,59,Soleado
+2025-09-13,68,57,Parcialmente Nublado
+2025-09-14,68,57,Parcialmente Nublado
+2025-09-15,66,55,Soleado
+2025-09-16,73,52,Soleado
+2025-09-17,81,55,Soleado
+2025-09-18,84,59,Soleado
+2025-09-19,82,59,Soleado
+2025-09-20,82,59,Soleado
+2025-09-21,77,55,Parcialmente Nublado
+2025-09-22,72,57,Parcialmente Nublado
+2025-09-23,72,57,Soleado
+2025-09-24,79,55,Parcialmente Nublado
+2025-09-25,73,59,Soleado
+2025-09-26,73,52,Soleado
+2025-09-27,72,59,Soleado
+2025-09-28,81,54,Soleado
+2025-09-29,93,57,Soleado
+2025-09-30,88,61,Soleado
+
+2025-10-01,75,59,Soleado
+2025-10-02,75,59,Parcialmente Nublado
+2025-10-03,73,61,Soleado
+2025-10-04,73,55,Soleado
+2025-10-05,73,57,Soleado
+2025-10-06,72,63,Soleado
+2025-10-07,73,57,Soleado
+2025-10-08,75,61,Soleado
+2025-10-09,75,61,Parcialmente Nublado
+2025-10-10,75,64,Parcialmente Nublado
+2025-10-11,75,63,Soleado
+2025-10-12,75,59,Soleado
+2025-10-13,68,57,Parcialmente Nublado
+2025-10-14,68,57,Lluvia
+2025-10-15,66,55,Soleado
+2025-10-16,73,52,Soleado
+2025-10-17,81,55,Soleado
+2025-10-18,84,59,Soleado
+2025-10-19,82,59,Soleado
+2025-10-20,82,59,Soleado
+2025-10-21,77,55,Parcialmente Nublado
+2025-10-22,72,57,Parcialmente Nublado
+2025-10-23,72,57,Soleado
+2025-10-24,79,55,Parcialmente Nublado
+2025-10-25,73,59,Soleado
+2025-10-26,73,52,Soleado
+2025-10-27,72,59,Soleado
+2025-10-28,81,54,Soleado
+2025-10-29,93,57,Soleado
+2025-10-30,88,61,Soleado
+2025-10-31,73,57,Soleado
+
+2025-11-01,71,55,Lluvia
+2025-11-02,72,54,Parcialmente Nublado
+2025-11-03,74,55,Soleado
+2025-11-04,75,56,Soleado
+2025-11-05,76,57,Soleado
+2025-11-01,73,55,Soleado
+2025-11-02,77,54,Parcialmente Nublado
+2025-11-03,75,57,Soleado
+2025-11-04,73,55,Soleado
+2025-11-05,70,57,Parcialmente Nublado
+2025-11-06,70,54,Soleado
+2025-11-07,72,55,Soleado
+2025-11-08,72,54,Soleado
+2025-11-09,81,50,Parcialmente Nublado
+2025-11-10,88,54,Parcialmente Nublado
+2025-11-11,82,52,Parcialmente Nublado
+2025-11-12,79,57,Soleado
+2025-11-13,81,50,Soleado
+2025-11-14,73,63,Parcialmente Nublado
+2025-11-15,66,43,Parcialmente Nublado
+2025-11-16,66,55,Soleado
+2025-11-17,69,53,Soleado
+2025-11-18,64,47,Lluvia
+2025-11-19,66,47,Soleado
+2025-11-20,67,53,Soleado
+2025-11-21,66,58,Parcialmente Nublado
+2025-11-22,67,51,Soleado
+2025-11-23,69,50,Soleado
+2025-11-24,70,49,Parcialmente Nublado
+2025-11-25,71,50,Soleado
+2025-11-26,75,50,Soleado
+2025-11-27,73,48,Soleado
+2025-11-28,69,47,Soleado
+2025-11-29,69,47,Soleado
+2025-11-30,67,51,Soleado
+
+2025-12-01,65,47,Soleado
+2025-12-02,67,56,Parcialmente Nublado
+2025-12-03,69,54,Parcialmente Nublado
+2025-12-04,73,50,Soleado
+2025-12-05,68,48,Soleado
+2025-12-06,69,49,Soleado
+2025-12-07,69,51,Soleado
+2025-12-08,74,57,Soleado
+2025-12-09,79,55,Soleado
+2025-12-10,77,53,Soleado
+2025-12-11,76,50,Soleado
+2025-12-12,76,50,Parcialmente Nublado
+2025-12-13,69,51,Niebla
+2025-12-14,68,52,Niebla
+2025-12-15,64,52,Niebla
