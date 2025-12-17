@@ -37,3 +37,5 @@ Menor a 60% es un modelo poco confiable
 
 Si usaramos la temperatura maxima y minima del dia actual podriamos ponerlas en el modelo y asi que nos genere una prediccion de condicion de clima.
 
+
+DATASET TOMADO DESDE: ```https://weather.com/es-US/tiempo/mensual/l/b3419305f250d733f1fe0a95f542d09924efef133a416afdc603e12ece8c26fa```
